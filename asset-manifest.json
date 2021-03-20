@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/flickrsearchimages/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/flickrsearchimages/static/js/main.d4719ac1.chunk.js",
+    "main.js.map": "/flickrsearchimages/static/js/main.d4719ac1.chunk.js.map",
+    "runtime-main.js": "/flickrsearchimages/static/js/runtime-main.dff5dd33.js",
+    "runtime-main.js.map": "/flickrsearchimages/static/js/runtime-main.dff5dd33.js.map",
+    "static/js/2.a1be4c98.chunk.js": "/flickrsearchimages/static/js/2.a1be4c98.chunk.js",
+    "static/js/2.a1be4c98.chunk.js.map": "/flickrsearchimages/static/js/2.a1be4c98.chunk.js.map",
+    "static/js/3.efc2fef5.chunk.js": "/flickrsearchimages/static/js/3.efc2fef5.chunk.js",
+    "static/js/3.efc2fef5.chunk.js.map": "/flickrsearchimages/static/js/3.efc2fef5.chunk.js.map",
+    "index.html": "/flickrsearchimages/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/flickrsearchimages/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.a1be4c98.chunk.js.LICENSE.txt": "/flickrsearchimages/static/js/2.a1be4c98.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/flickrsearchimages/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dff5dd33.js",
+    "static/js/2.a1be4c98.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.d4719ac1.chunk.js"
+  ]
+}
